@@ -1,10 +1,12 @@
 ﻿  jvavskript.cpp
-D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(42,23): warning C4018: “<”: 有符号/无符号不匹配
-D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(54,23): warning C4018: “<”: 有符号/无符号不匹配
-D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(61,23): warning C4018: “<”: 有符号/无符号不匹配
-D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(109,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(43,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(55,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(62,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(111,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(216,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(229,27): warning C4018: “<”: 有符号/无符号不匹配
   正在生成代码
-  1 of 426 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+  1 of 470 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     1 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
