@@ -1,0 +1,4 @@
+﻿  jvavskript.cpp
+D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(42,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\czgcpp\FL\jvavskript\jvavskript\jvavskript\jvavskript.cpp(54,23): warning C4018: “<”: 有符号/无符号不匹配
+  jvavskript.vcxproj -> D:\czgcpp\FL\jvavskript\jvavskript\Debug\jvavskript.exe
